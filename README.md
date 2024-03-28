@@ -3,9 +3,12 @@
 Chatbot was done using the help of AWS LEX using AWS console.
 Various slots,intents and slot types were added..
 
-AWS Lambda is used here and a small snippet of json code is used here.
+AWS Lambda is used here and a small snippet of .py code is used here.
+
+validate.py has the slot validation code which is integrated with aws lambda
 
 Python was used here to just validate if the chatbot responses and the intents are working fine or not.
+
 
 Post that,the chatbot has been integrated with Kommunicate,a website that creates an UI for the bot.
 
