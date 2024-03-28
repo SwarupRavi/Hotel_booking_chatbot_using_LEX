@@ -9,8 +9,8 @@ validate.py has the slot validation code which is integrated with aws lambda
 
 Python was used here to just validate if the chatbot responses and the intents are working fine or not.
 
-
 Post that,the chatbot has been integrated with Kommunicate,a website that creates an UI for the bot.
+
 
 <img width="331" alt="Screenshot 2024-03-24 at 7 27 53 PM" src="https://github.com/SwarupRavi/Hotel_booking_chatbot_using_LEX/assets/79323627/adeb1f0c-7eda-46c4-a0b1-e5e590fd8cad">  
 
